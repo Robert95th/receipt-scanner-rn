@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+.env
+.env.local
+firebase-key.json
+.DS_Store
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
